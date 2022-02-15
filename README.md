@@ -1,2 +1,2 @@
-# redux-toolkit-example
+# redux-toolkit-typescript-example
 Created with CodeSandbox
